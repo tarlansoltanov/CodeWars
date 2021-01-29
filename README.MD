@@ -19,7 +19,7 @@
                 6 KYU
             </td>
             <td>
-                <a href="6 KYU/Bit Counting/Solution.py">Python</a>
+                <a href="6 KYU/Bit Counting/Solution.py">Python</a>, <a href="6 KYU/Bit Counting/Solution.cpp">C++</a>
             </td>
             <td>
                 <a href="6 KYU/Bit Counting">Solutions</a>
