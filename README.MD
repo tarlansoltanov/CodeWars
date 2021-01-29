@@ -10,6 +10,20 @@
     <tbody>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/5412509bd436bd33920011bc">Credit Card Mask</a>
+            </td>
+            <td>
+                7 KYU
+            </td>
+            <td>
+                <a href="7 KYU/Credit Card Mask/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="7 KYU/Credit Card Mask">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/52fba66badcd10859f00097e">Disemvowel Trolls</a>
             </td>
             <td>
