@@ -9,6 +9,12 @@
     </thead>
     <tbody>
         <tr>
+            <td><a href="https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095">max diff - easy</td>
+            <td>7 KYU</td>
+            <td><a href="7 KYU/max diff - easy/Solution.py">Python</a></td>
+            <td><a href="7 KYU/max diff - easy">Solutions</a></td>
+        </tr>
+        <tr>
             <td><a href="https://www.codewars.com/kata/56541980fa08ab47a0000040">Printer Errors</td>
             <td>7 KYU</td>
             <td><a href="7 KYU/Printer Errors/Solution.py">Python</a></td>
