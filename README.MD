@@ -9,6 +9,12 @@
     </thead>
     <tbody>
         <tr>
+            <td><a href="https://www.codewars.com/kata/56541980fa08ab47a0000040">Printer Errors</td>
+            <td>7 KYU</td>
+            <td><a href="7 KYU/Printer Errors/Solution.py">Python</a></td>
+            <td><a href="7 KYU/Printer Errors">Solutions</a></td>
+        </tr>
+        <tr>
             <td><a href="https://www.codewars.com/kata/558fc85d8fd1938afb000014">Sum of two lowest positive integers</td>
             <td>7 KYU</td>
             <td><a href="7 KYU/Sum of two lowest positive integers/Solution.py">Python</a></td>
