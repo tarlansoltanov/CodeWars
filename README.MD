@@ -10,6 +10,20 @@
     <tbody>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/52fba66badcd10859f00097e">Disemvowel Trolls</a>
+            </td>
+            <td>
+                7 KYU
+            </td>
+            <td>
+                <a href="7 KYU/Disemvowel Trolls/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="7 KYU/Disemvowel Trolls">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/56747fd5cb988479af000028">Get the Middle Character</a>
             </td>
             <td>
