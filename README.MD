@@ -96,6 +96,20 @@
             </td>
         </tr>
         <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/57814d79a56c88e3e0000786">Simple Encryption #1 - Alternating Split</a>
+            </td>
+            <td>
+                6 KYU
+            </td>
+            <td>
+                <a href="6 KYU/Simple Encryption #1 - Alternating Split/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="6 KYU/Simple Encryption #1 - Alternating Split">Solutions</a>
+            </td>
+        </tr>
+        <tr>
             <td colspan=4 style="text-align: center;">Katas With 7 KYU Points</td>
         </tr>
         <tr>
