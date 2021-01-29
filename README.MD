@@ -124,6 +124,20 @@
             </td>
         </tr>
         <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/55c45be3b2079eccff00010f">Your order, please</a>
+            </td>
+            <td>
+                6 KYU
+            </td>
+            <td>
+                <a href="6 KYU/Your order, please/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="6 KYU/Your order, please">Solutions</a>
+            </td>
+        </tr>
+        <tr>
             <td colspan=4 style="text-align: center;">Katas With 7 KYU Points</td>
         </tr>
         <tr>
