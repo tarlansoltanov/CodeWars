@@ -9,6 +9,26 @@
     </thead>
     <tbody>
         <tr>
+            <td colspan=4 style="text-align: center;">Katas With 6 KYU Points</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/526571aae218b8ee490006f4">Bit Counting</a>
+            </td>
+            <td>
+                6 KYU
+            </td>
+            <td>
+                <a href="6 KYU/Bit Counting/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="6 KYU/Bit Counting">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan=4 style="text-align: center;">Katas With 7 KYU Points</td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://www.codewars.com/kata/5412509bd436bd33920011bc">Credit Card Mask</a>
             </td>
