@@ -68,6 +68,20 @@
             </td>
         </tr>
         <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/5526fc09a1bbd946250002dc">Find The Parity Outlier</a>
+            </td>
+            <td>
+                6 KYU
+            </td>
+            <td>
+                <a href="6 KYU/Find The Parity Outlier/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="6 KYU/Find The Parity Outlier">Solutions</a>
+            </td>
+        </tr>
+        <tr>
             <td colspan=4 style="text-align: center;">Katas With 7 KYU Points</td>
         </tr>
         <tr>
