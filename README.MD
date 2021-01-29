@@ -40,6 +40,20 @@
             </td>
         </tr>
         <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/525f50e3b73515a6db000b83">Create Phone Number</a>
+            </td>
+            <td>
+                6 KYU
+            </td>
+            <td>
+                <a href="6 KYU/Create Phone Number/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="6 KYU/Create Phone Number">Solutions</a>
+            </td>
+        </tr>
+        <tr>
             <td colspan=4 style="text-align: center;">Katas With 7 KYU Points</td>
         </tr>
         <tr>
