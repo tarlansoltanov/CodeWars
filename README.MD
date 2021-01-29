@@ -26,6 +26,20 @@
             </td>
         </tr>
         <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1">Counting Duplicates</a>
+            </td>
+            <td>
+                6 KYU
+            </td>
+            <td>
+                <a href="6 KYU/Counting Duplicates/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="6 KYU/Counting Duplicates">Solutions</a>
+            </td>
+        </tr>
+        <tr>
             <td colspan=4 style="text-align: center;">Katas With 7 KYU Points</td>
         </tr>
         <tr>
