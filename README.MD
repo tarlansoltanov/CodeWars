@@ -110,6 +110,20 @@
             </td>
         </tr>
         <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/578aa45ee9fd15ff4600090d">Sort the odd</a>
+            </td>
+            <td>
+                6 KYU
+            </td>
+            <td>
+                <a href="6 KYU/Sort the odd/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="6 KYU/Sort the odd">Solutions</a>
+            </td>
+        </tr>
+        <tr>
             <td colspan=4 style="text-align: center;">Katas With 7 KYU Points</td>
         </tr>
         <tr>
