@@ -82,6 +82,20 @@
             </td>
         </tr>
         <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/552c028c030765286c00007d">IQ Test</a>
+            </td>
+            <td>
+                6 KYU
+            </td>
+            <td>
+                <a href="6 KYU/IQ Test/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="6 KYU/IQ Test">Solutions</a>
+            </td>
+        </tr>
+        <tr>
             <td colspan=4 style="text-align: center;">Katas With 7 KYU Points</td>
         </tr>
         <tr>
