@@ -142,6 +142,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/57d2807295497e652b000139">Averages of numbers</a>
+            </td>
+            <td>
+                7 KYU
+            </td>
+            <td>
+                <a href="7 KYU/Averages of numbers/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="7 KYU/Averages of numbers">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/5412509bd436bd33920011bc">Credit Card Mask</a>
             </td>
             <td>
