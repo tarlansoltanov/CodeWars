@@ -240,6 +240,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9">Row Weights</a>
+            </td>
+            <td>
+                7 KYU
+            </td>
+            <td>
+                <a href="7 KYU/Row Weights/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="7 KYU/Row Weights">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/558fc85d8fd1938afb000014">Sum of two lowest positive integers</a>
             </td>
             <td>
