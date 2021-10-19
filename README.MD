@@ -139,6 +139,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/541c8630095125aba6000c00">Sum of Digits / Digital Root</a>
+            </td>
+            <td>
+                6 KYU
+            </td>
+            <td>
+                <a href="6 KYU/Sum of Digits - Digital Root/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="6 KYU/Sum of Digits - Digital Root">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/55c45be3b2079eccff00010f">Your order, please</a>
             </td>
             <td>
