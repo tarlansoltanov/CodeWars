@@ -266,5 +266,22 @@
                 <a href="7 KYU/You're a square!">Solutions</a>
             </td>
         </tr>
+        <tr>
+            <td colspan=4 style="text-align: center;">Katas With 8 KYU Points</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/583710ccaa6717322c000105">Simple multiplication</a>
+            </td>
+            <td>
+                8 KYU
+            </td>
+            <td>
+                <a href="8 KYU/Simple multiplication/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="8 KYU/Simple multiplication">Solutions</a>
+            </td>
+        </tr>
     </tbody>
 </table>
