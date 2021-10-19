@@ -9,6 +9,23 @@
     </thead>
     <tbody>
         <tr>
+            <td colspan=4 style="text-align: center;">Katas With 5 KYU Points</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/52685f7382004e774f0001f7">Human Readable Time</a>
+            </td>
+            <td>
+                5 KYU
+            </td>
+            <td>
+                <a href="5 KYU/Human Readable Time/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="5 KYU/Human Readable Time">Solutions</a>
+            </td>
+        </tr>
+        <tr>
             <td colspan=4 style="text-align: center;">Katas With 6 KYU Points</td>
         </tr>
         <tr>
