@@ -44,6 +44,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/550498447451fbbd7600041c">Are they the "same"?</a>
+            </td>
+            <td>
+                6 KYU
+            </td>
+            <td>
+                <a href="6 KYU/Are they the same/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="6 KYU/Are they the same">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/523f5d21c841566fde000009">Array.diff</a>
             </td>
             <td>
