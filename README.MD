@@ -13,6 +13,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39">Calculating with Functions</a>
+            </td>
+            <td>
+                5 KYU
+            </td>
+            <td>
+                <a href="5 KYU/Calculating with Functions/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="5 KYU/Calculating with Functions">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/52685f7382004e774f0001f7">Human Readable Time</a>
             </td>
             <td>
