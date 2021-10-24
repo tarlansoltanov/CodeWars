@@ -26,6 +26,20 @@
             </td>
         </tr>
         <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/5726f813c8dcebf5ed000a6bs">k-Primes</a>
+            </td>
+            <td>
+                5 KYU
+            </td>
+            <td>
+                <a href="5 KYU/k-Primes/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="5 KYU/k-Primes">Solutions</a>
+            </td>
+        </tr>
+        <tr>
             <td colspan=4 style="text-align: center;">Katas With 6 KYU Points</td>
         </tr>
         <tr>
