@@ -316,6 +316,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/50ee6b0bdeab583673000025">Basic variable assignment</a>
+            </td>
+            <td>
+                8 KYU
+            </td>
+            <td>
+                <a href="8 KYU/Basic variable assignment/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="8 KYU/Basic variable assignment">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/583710ccaa6717322c000105">Simple multiplication</a>
             </td>
             <td>
