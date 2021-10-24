@@ -30,6 +30,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/523f5d21c841566fde000009">Array.diff</a>
+            </td>
+            <td>
+                6 KYU
+            </td>
+            <td>
+                <a href="6 KYU/Array.diff/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="6 KYU/Array.diff">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/526571aae218b8ee490006f4">Bit Counting</a>
             </td>
             <td>
