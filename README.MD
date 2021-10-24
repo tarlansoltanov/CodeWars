@@ -285,6 +285,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/546e2562b03326a88e000020">Square Every Digit</a>
+            </td>
+            <td>
+                7 KYU
+            </td>
+            <td>
+                <a href="7 KYU/Square Every Digit/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="7 KYU/Square Every Digit">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/558fc85d8fd1938afb000014">Sum of two lowest positive integers</a>
             </td>
             <td>
