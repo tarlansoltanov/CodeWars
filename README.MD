@@ -299,6 +299,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d">Halving Sum</a>
+            </td>
+            <td>
+                7 KYU
+            </td>
+            <td>
+                <a href="7 KYU/Halving Sum/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="7 KYU/Halving Sum">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095">max diff - easy</a>
             </td>
             <td>
