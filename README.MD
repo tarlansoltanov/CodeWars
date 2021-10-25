@@ -400,6 +400,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/51c8991dee245d7ddf00000e">Reversed Words</a>
+            </td>
+            <td>
+                8 KYU
+            </td>
+            <td>
+                <a href="8 KYU/Reversed Words/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="8 KYU/Reversed Words">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/583710ccaa6717322c000105">Simple multiplication</a>
             </td>
             <td>
