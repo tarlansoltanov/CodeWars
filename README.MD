@@ -454,5 +454,19 @@
                 <a href="8 KYU/Simple multiplication">Solutions</a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/5b853229cfde412a470000d0">Twice as old</a>
+            </td>
+            <td>
+                8 KYU
+            </td>
+            <td>
+                <a href="8 KYU/Twice as old/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="8 KYU/Twice as old">Solutions</a>
+            </td>
+        </tr>
     </tbody>
 </table>
