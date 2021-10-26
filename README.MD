@@ -27,6 +27,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/54e320dcebe1e583250008fd">Decimal to Factorial and Back</a>
+            </td>
+            <td>
+                5 KYU
+            </td>
+            <td>
+                <a href="5 KYU/Decimal to Factorial and Back/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="5 KYU/Decimal to Factorial and Back">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/52685f7382004e774f0001f7">Human Readable Time</a>
             </td>
             <td>
