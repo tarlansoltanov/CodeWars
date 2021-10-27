@@ -442,6 +442,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/57eae20f5500ad98e50002c5">Remove String Spaces</a>
+            </td>
+            <td>
+                8 KYU
+            </td>
+            <td>
+                <a href="8 KYU/Remove String Spaces/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="8 KYU/Remove String Spaces">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/51c8991dee245d7ddf00000e">Reversed Words</a>
             </td>
             <td>
