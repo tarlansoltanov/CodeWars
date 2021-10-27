@@ -448,7 +448,7 @@
                 8 KYU
             </td>
             <td>
-                <a href="8 KYU/Reversed Words/Solution.py">Python</a>
+                <a href="8 KYU/Reversed Words/Solution.py">Python</a>, <a href="8 KYU/Reversed Words/Solution.cpp">C++</a>
             </td>
             <td>
                 <a href="8 KYU/Reversed Words">Solutions</a>
