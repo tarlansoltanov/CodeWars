@@ -456,6 +456,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b">Cat years, Dog years</a>
+            </td>
+            <td>
+                8 KYU
+            </td>
+            <td>
+                <a href="8 KYU/Cat years, Dog years/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="8 KYU/Cat years, Dog years">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/57eae20f5500ad98e50002c5">Remove String Spaces</a>
             </td>
             <td>
