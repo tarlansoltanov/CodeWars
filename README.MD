@@ -369,6 +369,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/5949481f86420f59480000e7">Odd or Even?</a>
+            </td>
+            <td>
+                7 KYU
+            </td>
+            <td>
+                <a href="7 KYU/Odd or Even/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="7 KYU/Odd or Even">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/56541980fa08ab47a0000040">Printer Errors</a>
             </td>
             <td>
