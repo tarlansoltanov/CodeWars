@@ -434,7 +434,7 @@
                 8 KYU
             </td>
             <td>
-                <a href="8 KYU/Basic variable assignment/Solution.py">Python</a>
+                <a href="8 KYU/Basic variable assignment/Solution.py">Python</a>, <a href="8 KYU/Basic variable assignment/Solution.cpp">C++</a>
             </td>
             <td>
                 <a href="8 KYU/Basic variable assignment">Solutions</a>
