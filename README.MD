@@ -156,6 +156,20 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.codewars.com/kata/5ef9ca8b76be6d001d5e1c3e">Error correction #1 - Hamming Code</a>
+            </td>
+            <td>
+                6 KYU
+            </td>
+            <td>
+                <a href="6 KYU/Error correction #1 - Hamming Code/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="6 KYU/Error correction #1 - Hamming Code">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://www.codewars.com/kata/5526fc09a1bbd946250002dc">Find The Parity Outlier</a>
             </td>
             <td>
