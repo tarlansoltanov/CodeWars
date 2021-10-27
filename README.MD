@@ -448,7 +448,7 @@
                 8 KYU
             </td>
             <td>
-                <a href="8 KYU/Remove String Spaces/Solution.py">Python</a>
+                <a href="8 KYU/Remove String Spaces/Solution.py">Python</a>, <a href="8 KYU/Remove String Spaces/Solution.cpp">C++</a>
             </td>
             <td>
                 <a href="8 KYU/Remove String Spaces">Solutions</a>
