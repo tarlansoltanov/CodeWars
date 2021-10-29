@@ -2,16 +2,35 @@
 
 <table>
     <thead>
-        <th>Kata</th>
-        <th>Point</th>
-        <th>Languages</th>
-        <th>Folder</th>
+        <th align="center">
+            <img width="50" height="1px">
+            <p> <small> # </small> </p>
+        </th>
+        <th align="center">
+            <img width="220" height="1px">
+            <p> <small> Kata </small> </p>
+        </th>
+        <th align="center">
+            <img width="110" height="1px">
+            <p> <small> Level </small> </p>
+        </th>
+        <th align="center">
+            <img width="275" height="1px">
+            <p> <small> Languages </small> </p>
+        </th>
+        <th align="center">
+            <img width="275" height="1px">
+            <p> <small> Folder </small> </p>
+        </th>
     </thead>
     <tbody>
         <tr>
-            <td colspan=4 style="text-align: center;">Katas With 4 KYU Points</td>
+            <td colspan=5 align="center">Katas With 4 KYU Points</td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1">Snail</a>
             </td>
@@ -26,9 +45,12 @@
             </td>
         </tr>
         <tr>
-            <td colspan=4 style="text-align: center;">Katas With 5 KYU Points</td>
+            <td colspan=5 align="center">Katas With 5 KYU Points</td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39">Calculating with Functions</a>
             </td>
@@ -43,6 +65,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/54e320dcebe1e583250008fd">Decimal to Factorial and Back</a>
             </td>
@@ -57,6 +82,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/52685f7382004e774f0001f7">Human Readable Time</a>
             </td>
@@ -71,6 +99,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/5726f813c8dcebf5ed000a6bs">k-Primes</a>
             </td>
@@ -85,9 +116,12 @@
             </td>
         </tr>
         <tr>
-            <td colspan=4 style="text-align: center;">Katas With 6 KYU Points</td>
+            <td colspan=5  align="center">Katas With 6 KYU Points</td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/550498447451fbbd7600041c">Are they the "same"?</a>
             </td>
@@ -102,6 +136,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/523f5d21c841566fde000009">Array.diff</a>
             </td>
@@ -116,6 +153,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/526571aae218b8ee490006f4">Bit Counting</a>
             </td>
@@ -130,6 +170,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1">Counting Duplicates</a>
             </td>
@@ -144,6 +187,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/525f50e3b73515a6db000b83">Create Phone Number</a>
             </td>
@@ -158,6 +204,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/551dc350bf4e526099000ae5">Dubstep</a>
             </td>
@@ -172,6 +221,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/5ef9ca8b76be6d001d5e1c3e">Error correction #1 - Hamming Code</a>
             </td>
@@ -186,6 +238,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/5526fc09a1bbd946250002dc">Find The Parity Outlier</a>
             </td>
@@ -200,6 +255,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/552c028c030765286c00007d">IQ Test</a>
             </td>
@@ -214,6 +272,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/55466989aeecab5aac00003e">Rectangle into Squares</a>
             </td>
@@ -228,6 +289,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/57814d79a56c88e3e0000786">Simple Encryption #1 - Alternating Split</a>
             </td>
@@ -242,6 +306,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/578aa45ee9fd15ff4600090d">Sort the odd</a>
             </td>
@@ -256,6 +323,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/541c8630095125aba6000c00">Sum of Digits / Digital Root</a>
             </td>
@@ -270,6 +340,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/55c45be3b2079eccff00010f">Your order, please</a>
             </td>
@@ -284,9 +357,12 @@
             </td>
         </tr>
         <tr>
-            <td colspan=4 style="text-align: center;">Katas With 7 KYU Points</td>
+            <td colspan=5  align="center">Katas With 7 KYU Points</td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/57d2807295497e652b000139">Averages of numbers</a>
             </td>
@@ -301,6 +377,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/5412509bd436bd33920011bc">Credit Card Mask</a>
             </td>
@@ -315,6 +394,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/52fba66badcd10859f00097e">Disemvowel Trolls</a>
             </td>
@@ -329,6 +411,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/56747fd5cb988479af000028">Get the Middle Character</a>
             </td>
@@ -343,6 +428,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d">Halving Sum</a>
             </td>
@@ -357,6 +445,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095">max diff - easy</a>
             </td>
@@ -371,6 +462,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/5648b12ce68d9daa6b000099">Number of People in the Bus</a>
             </td>
@@ -385,6 +479,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/5949481f86420f59480000e7">Odd or Even?</a>
             </td>
@@ -399,6 +496,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/56541980fa08ab47a0000040">Printer Errors</a>
             </td>
@@ -413,6 +513,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9">Row Weights</a>
             </td>
@@ -427,6 +530,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/546e2562b03326a88e000020">Square Every Digit</a>
             </td>
@@ -441,6 +547,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/558fc85d8fd1938afb000014">Sum of two lowest positive integers</a>
             </td>
@@ -455,6 +564,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/54c27a33fb7da0db0100040e">You're a square!</a>
             </td>
@@ -469,9 +581,12 @@
             </td>
         </tr>
         <tr>
-            <td colspan=4 style="text-align: center;">Katas With 8 KYU Points</td>
+            <td colspan=5  align="center">Katas With 8 KYU Points</td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/50ee6b0bdeab583673000025">Basic variable assignment</a>
             </td>
@@ -486,6 +601,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b">Cat years, Dog years</a>
             </td>
@@ -500,6 +618,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/57eae20f5500ad98e50002c5">Remove String Spaces</a>
             </td>
@@ -514,6 +635,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/51c8991dee245d7ddf00000e">Reversed Words</a>
             </td>
@@ -528,6 +652,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/583710ccaa6717322c000105">Simple multiplication</a>
             </td>
@@ -542,6 +669,9 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                #
+            </td>
             <td>
                 <a href="https://www.codewars.com/kata/5b853229cfde412a470000d0">Twice as old</a>
             </td>
