@@ -9,6 +9,23 @@
     </thead>
     <tbody>
         <tr>
+            <td colspan=4 style="text-align: center;">Katas With 4 KYU Points</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1">Snail</a>
+            </td>
+            <td>
+                4 KYU
+            </td>
+            <td>
+                <a href="4 KYU/Snail/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="4 KYU/Snail">Solutions</a>
+            </td>
+        </tr>
+        <tr>
             <td colspan=4 style="text-align: center;">Katas With 5 KYU Points</td>
         </tr>
         <tr>
