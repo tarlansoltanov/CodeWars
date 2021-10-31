@@ -500,6 +500,23 @@
                 #
             </td>
             <td>
+                <a href="https://www.codewars.com/kata/5f0ed36164f2bc00283aed07">Over The Road</a>
+            </td>
+            <td>
+                7 KYU
+            </td>
+            <td>
+                <a href="7 KYU/Over The Road/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="7 KYU/Over The Road">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                #
+            </td>
+            <td>
                 <a href="https://www.codewars.com/kata/56541980fa08ab47a0000040">Printer Errors</a>
             </td>
             <td>
