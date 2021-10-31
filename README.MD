@@ -622,6 +622,23 @@
                 #
             </td>
             <td>
+                <a href="https://www.codewars.com/kata/5ce9c1000bab0b001134f5af">Quarter of the year</a>
+            </td>
+            <td>
+                8 KYU
+            </td>
+            <td>
+                <a href="8 KYU/Quarter of the year/Solution.py">Python</a>
+            </td>
+            <td>
+                <a href="8 KYU/Quarter of the year">Solutions</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                #
+            </td>
+            <td>
                 <a href="https://www.codewars.com/kata/57eae20f5500ad98e50002c5">Remove String Spaces</a>
             </td>
             <td>
